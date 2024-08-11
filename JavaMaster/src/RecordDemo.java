@@ -15,5 +15,12 @@ public class RecordDemo {
 
             System.out.println(student);
         }
+
+        LPAStudent student = new LPAStudent("S92306", "Bill", "09/11/1997", "Java MasterClass");
+        System.out.println(student);
+
+        //Java records use the same name as fields in place of getter methods
+        //Ex: student.id() == student.getId()
+        System.out.println(student.id() + " " + student.name() + " " + student.dateOfBirth() + " " + student.classList());
     }
 }

@@ -1,9 +1,14 @@
 public class DishWasher {
     private boolean hasWorkToDo;
 
-    public DishWasher(boolean hasWorkToDo) {
+    public void setHasWorkToDo(boolean hasWorkToDo) {
         this.hasWorkToDo = hasWorkToDo;
     }
 
-    public void di
+    public void diDishes() {
+        if(hasWorkToDo) {
+            System.out.println("Washing dishes....");
+            hasWorkToDo = false;
+        }
+    }
 }

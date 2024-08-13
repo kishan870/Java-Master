@@ -1,19 +1,14 @@
-
-//This is part of composition challenge
 public class Refrigerator {
     private boolean hasWorkToDo;
 
-    public Refrigerator(boolean hasWorkToDo) {
+    public void setHasWorkToDo(boolean hasWorkToDo) {
         this.hasWorkToDo = hasWorkToDo;
     }
 
-    public void OrderFood() {
+    public void orderFood() {
         if(hasWorkToDo) {
-            System.out.println("Order Food is being done");
-        }
-
-        else {
-            System.out.println("Refrigerator is idle");
+            System.out.println("Ordering Food....");
+            hasWorkToDo = false;
         }
     }
 }

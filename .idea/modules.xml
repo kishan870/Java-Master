@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/ClassDemo/ClassDemo.iml" filepath="$PROJECT_DIR$/JavaMaster/ClassDemo/ClassDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/CompositionChallenge/CompositionChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/CompositionChallenge/CompositionChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/ConstructorChallenge/ConstructorDemo.iml" filepath="$PROJECT_DIR$/JavaMaster/ConstructorChallenge/ConstructorDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/InheritanceChallenge/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/InheritanceChallenge/InheritanceChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Master.iml" filepath="$PROJECT_DIR$/Java-Master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/JavaMaster.iml" filepath="$PROJECT_DIR$/JavaMaster/JavaMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/POJODemo/POJODemo.iml" filepath="$PROJECT_DIR$/JavaMaster/POJODemo/POJODemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/RecordDemo/RecordDemo.iml" filepath="$PROJECT_DIR$/JavaMaster/RecordDemo/RecordDemo.iml" />
     </modules>
   </component>
 </project>

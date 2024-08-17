@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/ArrayListChallenge/ArrayListChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/ArrayListChallenge/ArrayListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/JavaMaster/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/ClassDemo/ClassDemo.iml" filepath="$PROJECT_DIR$/JavaMaster/ClassDemo/ClassDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/CompositionChallenge/CompositionChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/CompositionChallenge/CompositionChallenge.iml" />

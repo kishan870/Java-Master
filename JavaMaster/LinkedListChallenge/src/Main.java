@@ -30,7 +30,7 @@ public class Main {
     }
 
     private static void addPlace(LinkedList<Place> list, Place place) {
-
+        
         for(Place p: list) {
             if(p.name().equalsIgnoreCase(place.name())) {
                 System.out.println("Found duplicate: " + place);

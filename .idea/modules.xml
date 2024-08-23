@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/AbstractClassChallenge/AbstractClassChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/AbstractClassChallenge/AbstractClassChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/ArrayListChallenge/ArrayListChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/ArrayListChallenge/ArrayListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/JavaMaster/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/AutoboxingUnboxingChallenge/AutoboxingUnboxingChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/AutoboxingUnboxingChallenge/AutoboxingUnboxingChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/ClassDemo/ClassDemo.iml" filepath="$PROJECT_DIR$/JavaMaster/ClassDemo/ClassDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/CompositionChallenge/CompositionChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/CompositionChallenge/CompositionChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/ConstructorChallenge/ConstructorDemo.iml" filepath="$PROJECT_DIR$/JavaMaster/ConstructorChallenge/ConstructorDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/EncapsulationChallenge/EncapsulationChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/EncapsulationChallenge/EncapsulationChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/EnumDemo/EnumDemo.iml" filepath="$PROJECT_DIR$/JavaMaster/EnumDemo/EnumDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/InheritanceChallenge/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/InheritanceChallenge/InheritanceChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Master.iml" filepath="$PROJECT_DIR$/Java-Master.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/JavaMaster.iml" filepath="$PROJECT_DIR$/JavaMaster/JavaMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/LinkedListChallenge/LinkedListChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/LinkedListChallenge/LinkedListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/OOPMasterChallenge/OOPMasterChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/OOPMasterChallenge/OOPMasterChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/POJODemo/POJODemo.iml" filepath="$PROJECT_DIR$/JavaMaster/POJODemo/POJODemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/PolymorphismChallenge/PolymorphismChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/PolymorphismChallenge/PolymorphismChallenge.iml" />

@@ -16,8 +16,10 @@
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/InterfaceChallenge/InterfaceChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/InterfaceChallenge/InterfaceChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Master.iml" filepath="$PROJECT_DIR$/Java-Master.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/JavaMaster.iml" filepath="$PROJECT_DIR$/JavaMaster/JavaMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/LambdaExpressionChallenge/LambdaExpressionChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/LambdaExpressionChallenge/LambdaExpressionChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/LambdaExpressions/LambdaExpressions.iml" filepath="$PROJECT_DIR$/JavaMaster/LambdaExpressions/LambdaExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/LambdaIntro/LambdaIntro.iml" filepath="$PROJECT_DIR$/JavaMaster/LambdaIntro/LambdaIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/LambdaMiniChallenges/LambdaMiniChallenges.iml" filepath="$PROJECT_DIR$/JavaMaster/LambdaMiniChallenges/LambdaMiniChallenges.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/LinkedListChallenge/LinkedListChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/LinkedListChallenge/LinkedListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/OOPMasterChallenge/OOPMasterChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/OOPMasterChallenge/OOPMasterChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/POJODemo/POJODemo.iml" filepath="$PROJECT_DIR$/JavaMaster/POJODemo/POJODemo.iml" />

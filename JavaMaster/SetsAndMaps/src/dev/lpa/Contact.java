@@ -44,6 +44,11 @@ public class Contact {
         return "%s: %s %s".formatted(name, emails, phones);
     }
 
+    public String getNameLastFirst() {
+        return name.substring(name.indexOf(" ") + 1) + " , " +
+                name.substring(0, name.indexOf(" "));
+    }
+
     public Contact mergeContactData(Contact contact) {
         Contact newContact = new Contact(name);
         newContact.emails = new HashSet<>(this.emails);

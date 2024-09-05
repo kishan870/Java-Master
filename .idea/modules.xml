@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/AbstractClassChallenge/AbstractClassChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/AbstractClassChallenge/AbstractClassChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/AdventureMap/AdventureMap.iml" filepath="$PROJECT_DIR$/JavaMaster/AdventureMap/AdventureMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/ArrayListChallenge/ArrayListChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/ArrayListChallenge/ArrayListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/JavaMaster/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/AutoboxingUnboxingChallenge/AutoboxingUnboxingChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/AutoboxingUnboxingChallenge/AutoboxingUnboxingChallenge.iml" />

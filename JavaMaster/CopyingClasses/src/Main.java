@@ -6,6 +6,11 @@ public class Main {
 
     record Person(String name, String dob, Person[] kids) {
 
+        //Using this constructor to make defensive copy
+        public Person(Person p) {
+            this(p.name(), p.dob(), p.kids() == null? null : Arrays.copyOf(p.kids(), p.kids().length));
+        }
+
         @Override
         public String toString() {
             return "Person{" +
@@ -54,6 +59,23 @@ public class Main {
                 System.out.println("Nothing printed as it is a Deep copy");
             }
         }
+
+        //Defensive copy
+        Person[] personsDefensiveCopy = new Person[5];
+        for(int i=0; i< 5; i++) {
+            personsDefensiveCopy[i] = new Person(persons[i]);
+        }
+
+        System.out.println("-".repeat(20));
+        for(int i=0; i<5; i++) {
+            if(persons[i] == personsDeepCopy[i]) {
+                System.out.println("Equal References: " + persons[i]);
+            } else {
+                System.out.println("Nothing printed as it is a Defensive copy");
+            }
+        }
+
+        System.out.println(personsDefensiveCopy[4]);
 
     }
 }

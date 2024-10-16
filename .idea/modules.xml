@@ -19,6 +19,8 @@
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/EnumCollections/EnumCollections.iml" filepath="$PROJECT_DIR$/JavaMaster/EnumCollections/EnumCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/EnumDemo/EnumDemo.iml" filepath="$PROJECT_DIR$/JavaMaster/EnumDemo/EnumDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/FileExceptions/FileExceptions.iml" filepath="$PROJECT_DIR$/JavaMaster/FileExceptions/FileExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/FileListings/FileListings.iml" filepath="$PROJECT_DIR$/JavaMaster/FileListings/FileListings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/FileWalker/FileWalker.iml" filepath="$PROJECT_DIR$/JavaMaster/FileWalker/FileWalker.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/FinalCollectionsChallenge/FinalCollectionsChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/FinalCollectionsChallenge/FinalCollectionsChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/FinalExplored/FinalExplored.iml" filepath="$PROJECT_DIR$/JavaMaster/FinalExplored/FinalExplored.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/GameConsole/GameConsole.iml" filepath="$PROJECT_DIR$/JavaMaster/GameConsole/GameConsole.iml" />
@@ -38,6 +40,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/MoreTime/MoreTime.iml" filepath="$PROJECT_DIR$/JavaMaster/MoreTime/MoreTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/OOPMasterChallenge/OOPMasterChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/OOPMasterChallenge/OOPMasterChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/POJODemo/POJODemo.iml" filepath="$PROJECT_DIR$/JavaMaster/POJODemo/POJODemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/PathListings/PathListings.iml" filepath="$PROJECT_DIR$/JavaMaster/PathListings/PathListings.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/PolymorphismChallenge/PolymorphismChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/PolymorphismChallenge/PolymorphismChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/RecordDemo/RecordDemo.iml" filepath="$PROJECT_DIR$/JavaMaster/RecordDemo/RecordDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/RegularExpressions/RegularExpressions.iml" filepath="$PROJECT_DIR$/JavaMaster/RegularExpressions/RegularExpressions.iml" />

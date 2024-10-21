@@ -42,9 +42,12 @@
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/POJODemo/POJODemo.iml" filepath="$PROJECT_DIR$/JavaMaster/POJODemo/POJODemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/PathListings/PathListings.iml" filepath="$PROJECT_DIR$/JavaMaster/PathListings/PathListings.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/PolymorphismChallenge/PolymorphismChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/PolymorphismChallenge/PolymorphismChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/ReadingFiles/ReadingFiles.iml" filepath="$PROJECT_DIR$/JavaMaster/ReadingFiles/ReadingFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/ReadingFilesChallenge/ReadingFilesChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/ReadingFilesChallenge/ReadingFilesChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/RecordDemo/RecordDemo.iml" filepath="$PROJECT_DIR$/JavaMaster/RecordDemo/RecordDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/RegularExpressions/RegularExpressions.iml" filepath="$PROJECT_DIR$/JavaMaster/RegularExpressions/RegularExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/ResourceBundleProject/ResourceBundleProject.iml" filepath="$PROJECT_DIR$/JavaMaster/ResourceBundleProject/ResourceBundleProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/ScannerProject/ScannerProject.iml" filepath="$PROJECT_DIR$/JavaMaster/ScannerProject/ScannerProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/SetOperationsChallenge/SetOperationsChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/SetOperationsChallenge/SetOperationsChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/SetsAndMaps/SetsAndMaps.iml" filepath="$PROJECT_DIR$/JavaMaster/SetsAndMaps/SetsAndMaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/SortedMaps/SortedMaps.iml" filepath="$PROJECT_DIR$/JavaMaster/SortedMaps/SortedMaps.iml" />
@@ -55,6 +58,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/StreamsTerminal/StreamsTerminal.iml" filepath="$PROJECT_DIR$/JavaMaster/StreamsTerminal/StreamsTerminal.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/StudentChallenge/StudentChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/StudentChallenge/StudentChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/TreeSetChallenge/TreeSetChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/TreeSetChallenge/TreeSetChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/WritingFiles/WritingFiles.iml" filepath="$PROJECT_DIR$/JavaMaster/WritingFiles/WritingFiles.iml" />
     </modules>
   </component>
 </project>

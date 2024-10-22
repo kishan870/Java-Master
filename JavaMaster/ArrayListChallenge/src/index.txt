@@ -1,0 +1,4 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\ArrayListChallenge\src
+E:\Java-Master\JavaMaster\ArrayListChallenge\src\Main.java
+Generated: 2024-10-22T13:36:10.825781800

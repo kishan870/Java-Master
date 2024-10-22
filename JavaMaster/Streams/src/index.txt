@@ -1,0 +1,5 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\Streams\src
+E:\Java-Master\JavaMaster\Streams\src\Main.java
+E:\Java-Master\JavaMaster\Streams\src\StreamsChallenge.java
+Generated: 2024-10-22T13:36:10.975780

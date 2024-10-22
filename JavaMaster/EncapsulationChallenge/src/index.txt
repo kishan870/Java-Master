@@ -1,0 +1,5 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\EncapsulationChallenge\src
+E:\Java-Master\JavaMaster\EncapsulationChallenge\src\Main.java
+E:\Java-Master\JavaMaster\EncapsulationChallenge\src\Printer.java
+Generated: 2024-10-22T13:36:10.871778800

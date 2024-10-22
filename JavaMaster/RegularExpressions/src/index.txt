@@ -1,0 +1,5 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\RegularExpressions\src
+E:\Java-Master\JavaMaster\RegularExpressions\src\Main.java
+E:\Java-Master\JavaMaster\RegularExpressions\src\RegexChallenge.java
+Generated: 2024-10-22T13:36:10.953778800

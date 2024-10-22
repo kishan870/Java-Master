@@ -1,0 +1,10 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\AbstractClassChallenge
+E:\Java-Master\JavaMaster\AbstractClassChallenge\AbstractClassChallenge.iml
+E:\Java-Master\JavaMaster\AbstractClassChallenge\src
+E:\Java-Master\JavaMaster\AbstractClassChallenge\src\ArtObject.java
+E:\Java-Master\JavaMaster\AbstractClassChallenge\src\Furniture.java
+E:\Java-Master\JavaMaster\AbstractClassChallenge\src\Main.java
+E:\Java-Master\JavaMaster\AbstractClassChallenge\src\ProductForSale.java
+E:\Java-Master\JavaMaster\AbstractClassChallenge\src\Store.java
+Generated: 2024-10-22T13:36:10.815784200

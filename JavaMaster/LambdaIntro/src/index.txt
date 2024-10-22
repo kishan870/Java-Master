@@ -1,0 +1,5 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\LambdaIntro\src
+E:\Java-Master\JavaMaster\LambdaIntro\src\LambdaDemo.java
+E:\Java-Master\JavaMaster\LambdaIntro\src\Main.java
+Generated: 2024-10-22T13:36:10.928779600

@@ -1,0 +1,14 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\StudentChallenge
+E:\Java-Master\JavaMaster\StudentChallenge\src
+E:\Java-Master\JavaMaster\StudentChallenge\src\dev
+E:\Java-Master\JavaMaster\StudentChallenge\src\dev\model
+E:\Java-Master\JavaMaster\StudentChallenge\src\dev\model\LPAStudent.java
+E:\Java-Master\JavaMaster\StudentChallenge\src\dev\model\LPAStudentComparator.java
+E:\Java-Master\JavaMaster\StudentChallenge\src\dev\model\Student.java
+E:\Java-Master\JavaMaster\StudentChallenge\src\dev\util
+E:\Java-Master\JavaMaster\StudentChallenge\src\dev\util\QueryItem.java
+E:\Java-Master\JavaMaster\StudentChallenge\src\dev\util\QueryList.java
+E:\Java-Master\JavaMaster\StudentChallenge\src\Main.java
+E:\Java-Master\JavaMaster\StudentChallenge\StudentChallenge.iml
+Generated: 2024-10-22T13:36:10.978779300

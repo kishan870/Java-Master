@@ -1,0 +1,4 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\CopyingClasses\src
+E:\Java-Master\JavaMaster\CopyingClasses\src\Main.java
+Generated: 2024-10-22T13:36:10.851778

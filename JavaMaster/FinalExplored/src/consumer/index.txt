@@ -1,0 +1,5 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\FinalExplored\src\consumer
+E:\Java-Master\JavaMaster\FinalExplored\src\consumer\specific
+E:\Java-Master\JavaMaster\FinalExplored\src\consumer\specific\ChildClass.java
+Generated: 2024-10-22T13:36:10.889778400

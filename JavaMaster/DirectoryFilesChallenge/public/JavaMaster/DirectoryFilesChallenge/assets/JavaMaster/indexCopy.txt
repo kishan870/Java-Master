@@ -1,0 +1,5 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge\public\JavaMaster\DirectoryFilesChallenge\assets\JavaMaster
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge\public\JavaMaster\DirectoryFilesChallenge\assets\JavaMaster\DirectoryFilesChallenge
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge\public\JavaMaster\DirectoryFilesChallenge\assets\JavaMaster\DirectoryFilesChallenge\icons
+Generated: 2024-10-22T13:36:10.865780700

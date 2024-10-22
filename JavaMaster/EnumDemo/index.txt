@@ -1,0 +1,7 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\EnumDemo
+E:\Java-Master\JavaMaster\EnumDemo\EnumDemo.iml
+E:\Java-Master\JavaMaster\EnumDemo\src
+E:\Java-Master\JavaMaster\EnumDemo\src\DaysOfWeek.java
+E:\Java-Master\JavaMaster\EnumDemo\src\Main.java
+Generated: 2024-10-22T13:36:10.874783

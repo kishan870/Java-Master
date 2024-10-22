@@ -1,0 +1,12 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\StaticNestedInnerClasses\src
+E:\Java-Master\JavaMaster\StaticNestedInnerClasses\src\burger
+E:\Java-Master\JavaMaster\StaticNestedInnerClasses\src\burger\Meal.java
+E:\Java-Master\JavaMaster\StaticNestedInnerClasses\src\burger\Store.java
+E:\Java-Master\JavaMaster\StaticNestedInnerClasses\src\domain
+E:\Java-Master\JavaMaster\StaticNestedInnerClasses\src\domain\Employee.java
+E:\Java-Master\JavaMaster\StaticNestedInnerClasses\src\domain\EmployeeComparator.java
+E:\Java-Master\JavaMaster\StaticNestedInnerClasses\src\domain\StoreEmployee.java
+E:\Java-Master\JavaMaster\StaticNestedInnerClasses\src\Main.java
+E:\Java-Master\JavaMaster\StaticNestedInnerClasses\src\RunMethods.java
+Generated: 2024-10-22T13:36:10.968780400

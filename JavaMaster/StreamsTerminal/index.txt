@@ -1,0 +1,7 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\StreamsTerminal
+E:\Java-Master\JavaMaster\StreamsTerminal\src
+E:\Java-Master\JavaMaster\StreamsTerminal\src\Main.java
+E:\Java-Master\JavaMaster\StreamsTerminal\src\Seat.java
+E:\Java-Master\JavaMaster\StreamsTerminal\StreamsTerminal.iml
+Generated: 2024-10-22T13:36:10.976778

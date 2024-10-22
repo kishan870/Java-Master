@@ -1,0 +1,6 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\EnumCollections
+E:\Java-Master\JavaMaster\EnumCollections\EnumCollections.iml
+E:\Java-Master\JavaMaster\EnumCollections\src
+E:\Java-Master\JavaMaster\EnumCollections\src\Main.java
+Generated: 2024-10-22T13:36:10.872778900

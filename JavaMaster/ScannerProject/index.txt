@@ -1,0 +1,8 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\ScannerProject
+E:\Java-Master\JavaMaster\ScannerProject\file.txt
+E:\Java-Master\JavaMaster\ScannerProject\fixedWidth.txt
+E:\Java-Master\JavaMaster\ScannerProject\ScannerProject.iml
+E:\Java-Master\JavaMaster\ScannerProject\src
+E:\Java-Master\JavaMaster\ScannerProject\src\Main.java
+Generated: 2024-10-22T13:36:10.957778400

@@ -1,0 +1,6 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\FileWalker\src
+E:\Java-Master\JavaMaster\FileWalker\src\Challenge.java
+E:\Java-Master\JavaMaster\FileWalker\src\ChallengeStream.java
+E:\Java-Master\JavaMaster\FileWalker\src\Main.java
+Generated: 2024-10-22T13:36:10.881779800

@@ -1,0 +1,8 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\PathListings
+E:\Java-Master\JavaMaster\PathListings\files
+E:\Java-Master\JavaMaster\PathListings\files\testing.txt
+E:\Java-Master\JavaMaster\PathListings\PathListings.iml
+E:\Java-Master\JavaMaster\PathListings\src
+E:\Java-Master\JavaMaster\PathListings\src\Main.java
+Generated: 2024-10-22T13:36:10.941778700

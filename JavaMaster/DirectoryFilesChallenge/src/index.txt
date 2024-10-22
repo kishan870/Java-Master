@@ -1,0 +1,4 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge\src
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge\src\Main.java
+Generated: 2024-10-22T13:36:10.869783700

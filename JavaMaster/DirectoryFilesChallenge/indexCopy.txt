@@ -1,0 +1,13 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge\DirectoryFilesChallenge.iml
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge\public
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge\public\JavaMaster
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge\public\JavaMaster\DirectoryFilesChallenge
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge\public\JavaMaster\DirectoryFilesChallenge\assets
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge\public\JavaMaster\DirectoryFilesChallenge\assets\JavaMaster
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge\public\JavaMaster\DirectoryFilesChallenge\assets\JavaMaster\DirectoryFilesChallenge
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge\public\JavaMaster\DirectoryFilesChallenge\assets\JavaMaster\DirectoryFilesChallenge\icons
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge\src
+E:\Java-Master\JavaMaster\DirectoryFilesChallenge\src\Main.java
+Generated: 2024-10-22T13:36:10.857779200

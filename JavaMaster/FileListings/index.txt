@@ -1,0 +1,6 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\FileListings
+E:\Java-Master\JavaMaster\FileListings\FileListings.iml
+E:\Java-Master\JavaMaster\FileListings\src
+E:\Java-Master\JavaMaster\FileListings\src\Main.java
+Generated: 2024-10-22T13:36:10.878780100

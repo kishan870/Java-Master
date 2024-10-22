@@ -1,0 +1,4 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\ReadingFilesChallenge\src
+E:\Java-Master\JavaMaster\ReadingFilesChallenge\src\Main.java
+Generated: 2024-10-22T13:36:10.950778800

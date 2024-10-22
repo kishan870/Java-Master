@@ -1,0 +1,8 @@
+Directory contents: 
+E:\Java-Master\JavaMaster\ResourceBundleProject\resources
+E:\Java-Master\JavaMaster\ResourceBundleProject\resources\BasicText.properties
+E:\Java-Master\JavaMaster\ResourceBundleProject\resources\BasicText_en_CA.properties
+E:\Java-Master\JavaMaster\ResourceBundleProject\resources\BasicText_fr_CA.properties
+E:\Java-Master\JavaMaster\ResourceBundleProject\resources\UIComponents.properties
+E:\Java-Master\JavaMaster\ResourceBundleProject\resources\UIComponents_fr.properties
+Generated: 2024-10-22T13:36:10.955778300

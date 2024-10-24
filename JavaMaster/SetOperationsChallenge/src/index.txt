@@ -1,7 +1,8 @@
 Directory contents: 
 E:\Java-Master\JavaMaster\SetOperationsChallenge\src
+E:\Java-Master\JavaMaster\SetOperationsChallenge\src\index.txt
 E:\Java-Master\JavaMaster\SetOperationsChallenge\src\Main.java
 E:\Java-Master\JavaMaster\SetOperationsChallenge\src\SetsChallenge.java
 E:\Java-Master\JavaMaster\SetOperationsChallenge\src\Task.java
 E:\Java-Master\JavaMaster\SetOperationsChallenge\src\TaskData.java
-Generated: 2024-10-22T13:36:10.960777100
+Generated: 2024-10-22T13:53:46.589537500

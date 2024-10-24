@@ -1,6 +1,8 @@
 Directory contents: 
 E:\Java-Master\JavaMaster\LambdaExpressionChallenge
+E:\Java-Master\JavaMaster\LambdaExpressionChallenge\index.txt
 E:\Java-Master\JavaMaster\LambdaExpressionChallenge\LambdaExpressionChallenge.iml
 E:\Java-Master\JavaMaster\LambdaExpressionChallenge\src
+E:\Java-Master\JavaMaster\LambdaExpressionChallenge\src\index.txt
 E:\Java-Master\JavaMaster\LambdaExpressionChallenge\src\Main.java
-Generated: 2024-10-22T13:36:10.923781800
+Generated: 2024-10-22T13:53:46.563539200

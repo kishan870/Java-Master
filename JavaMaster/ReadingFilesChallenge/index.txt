@@ -2,7 +2,9 @@ Directory contents:
 E:\Java-Master\JavaMaster\ReadingFilesChallenge
 E:\Java-Master\JavaMaster\ReadingFilesChallenge\article.txt
 E:\Java-Master\JavaMaster\ReadingFilesChallenge\bigben.txt
+E:\Java-Master\JavaMaster\ReadingFilesChallenge\index.txt
 E:\Java-Master\JavaMaster\ReadingFilesChallenge\ReadingFilesChallenge.iml
 E:\Java-Master\JavaMaster\ReadingFilesChallenge\src
+E:\Java-Master\JavaMaster\ReadingFilesChallenge\src\index.txt
 E:\Java-Master\JavaMaster\ReadingFilesChallenge\src\Main.java
-Generated: 2024-10-22T13:36:10.949778500
+Generated: 2024-10-22T13:53:46.579534400

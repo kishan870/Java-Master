@@ -1,5 +1,6 @@
 Directory contents: 
 E:\Java-Master\JavaMaster\StaticNestedInnerClasses\src\burger
+E:\Java-Master\JavaMaster\StaticNestedInnerClasses\src\burger\index.txt
 E:\Java-Master\JavaMaster\StaticNestedInnerClasses\src\burger\Meal.java
 E:\Java-Master\JavaMaster\StaticNestedInnerClasses\src\burger\Store.java
-Generated: 2024-10-22T13:36:10.969782
+Generated: 2024-10-22T13:53:46.597535500

@@ -1,7 +1,9 @@
 Directory contents: 
 E:\Java-Master\JavaMaster\StreamsIntermediate
+E:\Java-Master\JavaMaster\StreamsIntermediate\index.txt
 E:\Java-Master\JavaMaster\StreamsIntermediate\src
+E:\Java-Master\JavaMaster\StreamsIntermediate\src\index.txt
 E:\Java-Master\JavaMaster\StreamsIntermediate\src\Main.java
 E:\Java-Master\JavaMaster\StreamsIntermediate\src\Seat.java
 E:\Java-Master\JavaMaster\StreamsIntermediate\StreamsIntermediate.iml
-Generated: 2024-10-22T13:36:10.975780
+Generated: 2024-10-22T13:53:46.601534700

@@ -1,7 +1,9 @@
 Directory contents: 
 E:\Java-Master\JavaMaster\Streams
+E:\Java-Master\JavaMaster\Streams\index.txt
 E:\Java-Master\JavaMaster\Streams\src
+E:\Java-Master\JavaMaster\Streams\src\index.txt
 E:\Java-Master\JavaMaster\Streams\src\Main.java
 E:\Java-Master\JavaMaster\Streams\src\StreamsChallenge.java
 E:\Java-Master\JavaMaster\Streams\Streams.iml
-Generated: 2024-10-22T13:36:10.974778
+Generated: 2024-10-22T13:53:46.600535300

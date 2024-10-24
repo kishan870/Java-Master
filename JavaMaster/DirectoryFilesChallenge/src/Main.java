@@ -14,8 +14,7 @@ public class Main {
     public static void main(String[] args) {
 
         String baseDirectory = "JavaMaster/DirectoryFilesChallenge/";
-        Path deepestFolder = Path.of(baseDirectory + "public", baseDirectory + "assets",
-                baseDirectory + "icons");
+        Path deepestFolder = Path.of(baseDirectory + "public", "assets", "icons");
 
         try {
             Files.createDirectories(deepestFolder);

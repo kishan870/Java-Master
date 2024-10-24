@@ -1,7 +1,9 @@
 Directory contents: 
 E:\Java-Master\JavaMaster\LambdaIntro
+E:\Java-Master\JavaMaster\LambdaIntro\index.txt
 E:\Java-Master\JavaMaster\LambdaIntro\LambdaIntro.iml
 E:\Java-Master\JavaMaster\LambdaIntro\src
+E:\Java-Master\JavaMaster\LambdaIntro\src\index.txt
 E:\Java-Master\JavaMaster\LambdaIntro\src\LambdaDemo.java
 E:\Java-Master\JavaMaster\LambdaIntro\src\Main.java
-Generated: 2024-10-22T13:36:10.927778900
+Generated: 2024-10-22T13:53:46.566534800

@@ -1,7 +1,9 @@
 Directory contents: 
 E:\Java-Master\JavaMaster\LambdaExpressions
+E:\Java-Master\JavaMaster\LambdaExpressions\index.txt
 E:\Java-Master\JavaMaster\LambdaExpressions\LambdaExpressions.iml
 E:\Java-Master\JavaMaster\LambdaExpressions\src
+E:\Java-Master\JavaMaster\LambdaExpressions\src\index.txt
 E:\Java-Master\JavaMaster\LambdaExpressions\src\Main.java
 E:\Java-Master\JavaMaster\LambdaExpressions\src\Operation.java
-Generated: 2024-10-22T13:36:10.924779900
+Generated: 2024-10-22T13:53:46.565537100

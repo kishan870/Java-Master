@@ -1,6 +1,8 @@
 Directory contents: 
 E:\Java-Master\JavaMaster\ArrayListChallenge
 E:\Java-Master\JavaMaster\ArrayListChallenge\ArrayListChallenge.iml
+E:\Java-Master\JavaMaster\ArrayListChallenge\index.txt
 E:\Java-Master\JavaMaster\ArrayListChallenge\src
+E:\Java-Master\JavaMaster\ArrayListChallenge\src\index.txt
 E:\Java-Master\JavaMaster\ArrayListChallenge\src\Main.java
-Generated: 2024-10-22T13:36:10.824782600
+Generated: 2024-10-22T13:53:46.507535300

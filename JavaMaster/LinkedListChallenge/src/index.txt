@@ -1,4 +1,5 @@
 Directory contents: 
 E:\Java-Master\JavaMaster\LinkedListChallenge\src
+E:\Java-Master\JavaMaster\LinkedListChallenge\src\index.txt
 E:\Java-Master\JavaMaster\LinkedListChallenge\src\Main.java
-Generated: 2024-10-22T13:36:10.934783100
+Generated: 2024-10-22T13:53:46.570535200

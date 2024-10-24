@@ -1,13 +1,18 @@
 Directory contents: 
 E:\Java-Master\JavaMaster\CollectionsOverview\src
 E:\Java-Master\JavaMaster\CollectionsOverview\src\dev
+E:\Java-Master\JavaMaster\CollectionsOverview\src\dev\index.txt
 E:\Java-Master\JavaMaster\CollectionsOverview\src\dev\lpa
 E:\Java-Master\JavaMaster\CollectionsOverview\src\dev\lpa\Card.java
 E:\Java-Master\JavaMaster\CollectionsOverview\src\dev\lpa\games
 E:\Java-Master\JavaMaster\CollectionsOverview\src\dev\lpa\games\GameController.java
+E:\Java-Master\JavaMaster\CollectionsOverview\src\dev\lpa\games\index.txt
 E:\Java-Master\JavaMaster\CollectionsOverview\src\dev\lpa\games\poker
+E:\Java-Master\JavaMaster\CollectionsOverview\src\dev\lpa\games\poker\index.txt
 E:\Java-Master\JavaMaster\CollectionsOverview\src\dev\lpa\games\poker\PokerGame.java
 E:\Java-Master\JavaMaster\CollectionsOverview\src\dev\lpa\games\poker\PokerHand.java
 E:\Java-Master\JavaMaster\CollectionsOverview\src\dev\lpa\games\poker\Ranking.java
+E:\Java-Master\JavaMaster\CollectionsOverview\src\dev\lpa\index.txt
 E:\Java-Master\JavaMaster\CollectionsOverview\src\dev\lpa\Main.java
-Generated: 2024-10-22T13:36:10.837779100
+E:\Java-Master\JavaMaster\CollectionsOverview\src\index.txt
+Generated: 2024-10-22T13:53:46.515534400

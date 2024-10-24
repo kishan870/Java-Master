@@ -1,7 +1,9 @@
 Directory contents: 
 E:\Java-Master\JavaMaster\ReadingFiles
 E:\Java-Master\JavaMaster\ReadingFiles\file.txt
+E:\Java-Master\JavaMaster\ReadingFiles\index.txt
 E:\Java-Master\JavaMaster\ReadingFiles\ReadingFiles.iml
 E:\Java-Master\JavaMaster\ReadingFiles\src
+E:\Java-Master\JavaMaster\ReadingFiles\src\index.txt
 E:\Java-Master\JavaMaster\ReadingFiles\src\Main.java
-Generated: 2024-10-22T13:36:10.947779300
+Generated: 2024-10-22T13:53:46.578535900

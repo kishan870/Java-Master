@@ -40,6 +40,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/LinkedListChallenge/LinkedListChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/LinkedListChallenge/LinkedListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/MethodReferenceChallenge/MethodReferenceChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/MethodReferenceChallenge/MethodReferenceChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/MoreTime/MoreTime.iml" filepath="$PROJECT_DIR$/JavaMaster/MoreTime/MoreTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/MultipleThreads/MultipleThreads.iml" filepath="$PROJECT_DIR$/JavaMaster/MultipleThreads/MultipleThreads.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/OOPMasterChallenge/OOPMasterChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/OOPMasterChallenge/OOPMasterChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/POJODemo/POJODemo.iml" filepath="$PROJECT_DIR$/JavaMaster/POJODemo/POJODemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/PathListings/PathListings.iml" filepath="$PROJECT_DIR$/JavaMaster/PathListings/PathListings.iml" />
@@ -60,6 +61,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/StreamsIntermediate/StreamsIntermediate.iml" filepath="$PROJECT_DIR$/JavaMaster/StreamsIntermediate/StreamsIntermediate.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/StreamsTerminal/StreamsTerminal.iml" filepath="$PROJECT_DIR$/JavaMaster/StreamsTerminal/StreamsTerminal.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/StudentChallenge/StudentChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/StudentChallenge/StudentChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/Synchronization/Synchronization.iml" filepath="$PROJECT_DIR$/JavaMaster/Synchronization/Synchronization.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/ThreadChallenge/ThreadChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/ThreadChallenge/ThreadChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/Threads/Threads.iml" filepath="$PROJECT_DIR$/JavaMaster/Threads/Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/TreeSetChallenge/TreeSetChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/TreeSetChallenge/TreeSetChallenge.iml" />

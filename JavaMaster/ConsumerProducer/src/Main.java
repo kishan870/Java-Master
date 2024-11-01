@@ -1,4 +1,6 @@
 import java.util.Random;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -7,17 +9,28 @@ class MessageRepository {
     private String message;
     private boolean hasMessage = false;
 
-    public synchronized String read() {
+    private final Lock lock = new ReentrantLock();
 
-        while (!hasMessage) {
+    public String read() {
+
+        if(lock.tryLock()) {
             try {
-                wait();
-            } catch (InterruptedException e) {
-                throw new RuntimeException(e);
+                while (!hasMessage) {
+                    try {
+                        Thread.sleep(500);
+                    } catch (InterruptedException e) {
+                        throw new RuntimeException(e);
+                    }
+                }
+                hasMessage = false;
+
+            } finally {
+                lock.unlock();
             }
+        } else {
+            System.out.println("**** Read message blocked***");
+            hasMessage = false;
         }
-        hasMessage = false;
-        notifyAll();
         return message;
     }
 
@@ -25,17 +38,25 @@ class MessageRepository {
         this.message = message;
     }
 
-    public synchronized void write(String message) {
+    public void write(String message) {
 
-        while (hasMessage) {
+        if(lock.tryLock()) {
             try {
-                wait();
-            } catch (InterruptedException e) {
-                throw new RuntimeException(e);
+                while (hasMessage) {
+                    try {
+                        Thread.sleep(500);
+                    } catch (InterruptedException e) {
+                        throw new RuntimeException(e);
+                    }
+                }
+                hasMessage = true;
+            } finally {
+                lock.unlock();
             }
+        } else {
+            System.out.println("***** Write Message blocked ****");
+            hasMessage = true;
         }
-        hasMessage = true;
-        notifyAll();
         setMessage(message);
     }
 }
@@ -106,6 +127,22 @@ public class Main {
 
         Thread reader = new Thread(new MessageReader(messageRepository));
         Thread writer = new Thread(new MessageWriter(messageRepository));
+
+        writer.setUncaughtExceptionHandler((thread, exc) -> {
+            System.out.println("Writer had an exception: " + exc);
+            if(reader.isAlive()) {
+                System.out.println("Interrupting the reader...");
+                reader.interrupt();
+            }
+        });
+
+        reader.setUncaughtExceptionHandler((thread, exc) -> {
+            System.out.println("Reader had an exception: " + exc);
+            if(writer.isAlive()) {
+                System.out.println("Interrupting the writer...");
+                writer.interrupt();
+            }
+        });
 
         reader.start();
         writer.start();

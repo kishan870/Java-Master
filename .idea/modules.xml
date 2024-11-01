@@ -21,6 +21,8 @@
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/EncapsulationChallenge/EncapsulationChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/EncapsulationChallenge/EncapsulationChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/EnumCollections/EnumCollections.iml" filepath="$PROJECT_DIR$/JavaMaster/EnumCollections/EnumCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/EnumDemo/EnumDemo.iml" filepath="$PROJECT_DIR$/JavaMaster/EnumDemo/EnumDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/Executor/Executor.iml" filepath="$PROJECT_DIR$/JavaMaster/Executor/Executor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/ExecutorChallenge/ExecutorChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/ExecutorChallenge/ExecutorChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/FileExceptions/FileExceptions.iml" filepath="$PROJECT_DIR$/JavaMaster/FileExceptions/FileExceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/FileListings/FileListings.iml" filepath="$PROJECT_DIR$/JavaMaster/FileListings/FileListings.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/FileWalker/FileWalker.iml" filepath="$PROJECT_DIR$/JavaMaster/FileWalker/FileWalker.iml" />

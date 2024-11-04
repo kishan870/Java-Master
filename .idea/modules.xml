@@ -47,6 +47,8 @@
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/OOPMasterChallenge/OOPMasterChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/OOPMasterChallenge/OOPMasterChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/POJODemo/POJODemo.iml" filepath="$PROJECT_DIR$/JavaMaster/POJODemo/POJODemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/ParallelProcesses/ParallelProcesses.iml" filepath="$PROJECT_DIR$/JavaMaster/ParallelProcesses/ParallelProcesses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/ParallelStreams/ParallelStreams.iml" filepath="$PROJECT_DIR$/JavaMaster/ParallelStreams/ParallelStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/ParallelStreamsAndMore/ParallelStreamsAndMore.iml" filepath="$PROJECT_DIR$/JavaMaster/ParallelStreamsAndMore/ParallelStreamsAndMore.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/PathListings/PathListings.iml" filepath="$PROJECT_DIR$/JavaMaster/PathListings/PathListings.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/PolymorphismChallenge/PolymorphismChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/PolymorphismChallenge/PolymorphismChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/ReadingFiles/ReadingFiles.iml" filepath="$PROJECT_DIR$/JavaMaster/ReadingFiles/ReadingFiles.iml" />

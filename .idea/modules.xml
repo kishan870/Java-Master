@@ -71,6 +71,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/Synchronization/Synchronization.iml" filepath="$PROJECT_DIR$/JavaMaster/Synchronization/Synchronization.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/SynchronizationChallenge/SynchronizationChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/SynchronizationChallenge/SynchronizationChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/ThreadChallenge/ThreadChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/ThreadChallenge/ThreadChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/ThreadProblems/ThreadProblems.iml" filepath="$PROJECT_DIR$/JavaMaster/ThreadProblems/ThreadProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/Threads/Threads.iml" filepath="$PROJECT_DIR$/JavaMaster/Threads/Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/TreeSetChallenge/TreeSetChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/TreeSetChallenge/TreeSetChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/WritingFiles/WritingFiles.iml" filepath="$PROJECT_DIR$/JavaMaster/WritingFiles/WritingFiles.iml" />

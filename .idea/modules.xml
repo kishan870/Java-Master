@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/ClassDemo/ClassDemo.iml" filepath="$PROJECT_DIR$/JavaMaster/ClassDemo/ClassDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/CollectionsOverview/CollectionsOverview.iml" filepath="$PROJECT_DIR$/JavaMaster/CollectionsOverview/CollectionsOverview.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/CompositionChallenge/CompositionChallenge.iml" filepath="$PROJECT_DIR$/JavaMaster/CompositionChallenge/CompositionChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMaster/ConcurrencyExtras/ConcurrencyExtras.iml" filepath="$PROJECT_DIR$/JavaMaster/ConcurrencyExtras/ConcurrencyExtras.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/ConstructorChallenge/ConstructorDemo.iml" filepath="$PROJECT_DIR$/JavaMaster/ConstructorChallenge/ConstructorDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/ConsumerProducer/ConsumerProducer.iml" filepath="$PROJECT_DIR$/JavaMaster/ConsumerProducer/ConsumerProducer.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMaster/CopyingClasses/CopyingClasses.iml" filepath="$PROJECT_DIR$/JavaMaster/CopyingClasses/CopyingClasses.iml" />
